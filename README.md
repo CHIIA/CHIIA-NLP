@@ -14,12 +14,14 @@ The Chinese Investment in Australia (CHIIA) Database is a public database of Mai
 CHIIA-NLP project is to identify the relevant data for CHIIA database by using natural language process and machine learning models which calculate the likelihood between the data extracted from Factiva and the relevant datasets. Our project will automatically search for the most obvious relevant data, and save them to CHIIA database. The project will greatly reduce the workload (~300 hours per year) and costs (thousands of dollars per year) for our clients. 
 
 ## Group Member
-* Hao He: u6153769@anu.edu.au, Communicator
-* Yang Lu: u6274652@anu.edu.au, Technical Lead
-* Teng Ma: u6123792@anu.edu.au, Developer
-* Zhoubao Mai: u6118739@anu.edu.au, Tester
-* Zhe Zhang: u6128882@anu.edu.au, Project Leader
-* Longfei Zhao: u5976992@anu.edu.au, Project Manager
+| Name       | Role          | Email  |
+| ------------- |:-------------:| -----:|
+| Hao He      | Communicator | u6153769@anu.edu.au |
+| Yang Lu      | Technical Lead      |   u6274652@anu.edu.au |
+| Teng Ma | Developer      |    u6123792@anu.edu.au |
+| Zhoubao Mai      | Tester      |   u6118739@anu.edu.au |
+| Zhe Zhang | Project Leader      |    u6128882@anu.edu.au |
+| Longfei Zhao | Project Manager      |    u5976992@anu.edu.au |
 
 ## Stakeholders
 * Susan Travis, Client
