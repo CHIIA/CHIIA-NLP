@@ -1,0 +1,9 @@
+[submodule "Crawler"]
+	path = Crawler
+	url = https://github.com/CHIIA/Crawler
+[submodule "Web"]
+	path = Web
+	url = https://github.com/CHIIA/Web
+[submodule "Model"]
+	path = Model
+	url = https://github.com/CHIIA/Model
