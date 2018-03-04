@@ -4,7 +4,8 @@
 2. [Group Member](#group-member)
 3. [Stakeholders](#stakeholders)
 4. [Documentation](#documentation)
-5. [Tools](#tools)
+5. [Meeting](#meeting)
+6. [Tools](#tools)
 
 ## Introduction
 ### About CHIIA
@@ -31,6 +32,8 @@ CHIIA-NLP project is to identify the relevant data for CHIIA database by using n
 
 ## Documentation
 We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuLNpcM0iiCxnppF?usp=sharing) for project documentation.
+
+## Meeting
 
 ## Tools
 
