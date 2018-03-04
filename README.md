@@ -16,7 +16,7 @@ The Chinese Investment in Australia (CHIIA) Database is a public database of Mai
 ## Stakeholders
 
 ## Documentation
-We use [GoogleDoc](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuLNpcM0iiCxnppF?usp=sharing) for project documentation.
+We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuLNpcM0iiCxnppF?usp=sharing) for project documentation.
 
 ## Tools
 
