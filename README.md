@@ -17,7 +17,7 @@ CHIIA-NLP project is to identify the relevant data for CHIIA database by using n
 
 ## Group Member
 | Name       | Role          | Email  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| :-----:|
 | Hao He      | Communicator | u6153769@anu.edu.au |
 | Yang Lu      | Technical Lead      |   u6274652@anu.edu.au |
 | Teng Ma | Developer      |    u6123792@anu.edu.au |
@@ -38,12 +38,19 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 * Meeting with client: Every Wednesday 15:00 - 17:00.
 * Team meeting: Every Wednesday 17:00 - 18:00 & Every Sunday 17:00 - 18:00.
 
-## Milestones
-* Week1 Bootcamp
-* Week2 Team Building
-* Week3 Initial Requirement Analysis
-* Week4 Preliminary Design
-* Week10 Project Showcase
+## Milestones(Semester 1)
+* ![Overview](https://github.com/CHIIA/CHIIA-NLP/blob/master/Docs/image/milestone.png)
+
+| Date      | Milestone         | Week  |
+| :------------- |:-------------:| :-----:|
+| 2018/2/24      | Bootcamp | Semester1 Week1 |
+| 2018/3/2      | Team Building     |   Semester1 Week2 |
+| 2018/3/9 | Initial Requirement Analysis      |   Semester1 Week3 |
+| 2018/3/16      | Preliminary Design      |   Semester1 Week4 |
+| 2018/4/6 | Web Crawler Finish      |   Semester1 Week7 |
+| 2018/4/20 | Server Development Finish      |    Semester1 Week9 |
+| 2018/4/23 | Unit Test Finish      |    Semester1 Week10 |
+| 2018/4/27 | Project Showcase      |   Semester1 Week10 |
 
 ## Tools
 
