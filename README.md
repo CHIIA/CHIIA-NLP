@@ -22,7 +22,9 @@ CHIIA-NLP project is to identify the relevant data for CHIIA database by using n
 * Longfei Zhao: u5976992@anu.edu.au
 
 ## Stakeholders
-
+* CHIIA Researchers
+* CHIIA-NLP Team
+* CHIIA-DB Team
 
 ## Documentation
 We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuLNpcM0iiCxnppF?usp=sharing) for project documentation.
