@@ -12,6 +12,7 @@ The Chinese Investment in Australia (CHIIA) Database is a public database of Mai
 
 ### About this project
 The purpose of this project is to design an algorithm to calculate the similarity with Chinese investment and build a program for investment specialists to recheck the results.
+CHIIA-NLP project is to identify the relevant data for CHIIA database using natural language process and machine learning models. Our project will extract data from Factiva, search the relevant data, and save them to CHIIA database. The project will greatly reduce the workload (~300 hours) and costs (thousands of dollars) for our clients. 
 
 ## Group Member
 * Hao He: u6153769@anu.edu.au
