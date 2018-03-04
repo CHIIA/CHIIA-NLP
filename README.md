@@ -20,3 +20,6 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 
 ## Tools
 
+* [Slack](https://chiianlp.slack.com/messages/C9H8AV2AX/): team communication
+* [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuLNpcM0iiCxnppF?usp=sharing): project documentation
+
