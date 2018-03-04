@@ -34,6 +34,8 @@ CHIIA-NLP project is to identify the relevant data for CHIIA database by using n
 We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuLNpcM0iiCxnppF?usp=sharing) for project documentation.
 
 ## Meeting
+Meeting with client: Every Wednesday 15:00 - 17:00
+Team meeting: Every Wednesday 17:00 - 18:00 & Every Sunday 17:00 - 18:00
 
 ## Tools
 
