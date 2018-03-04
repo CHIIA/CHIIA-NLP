@@ -22,8 +22,9 @@ CHIIA-NLP project is to identify the relevant data for CHIIA database by using n
 * Longfei Zhao: u5976992@anu.edu.au, Project Manager
 
 ## Stakeholders
-* CHIIA Researchers
+* Susan Travis, Client
 * CHIIA-NLP Team
+* CHIIA Researchers
 * CHIIA-DB Team
 
 ## Documentation
