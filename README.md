@@ -39,6 +39,11 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 * Team meeting: Every Wednesday 17:00 - 18:00 & Every Sunday 17:00 - 18:00.
 
 ## Milestones
+* Week1 Bootcamp
+* Week2 Team Building
+* Week3 Initial Requirement Analysis
+* Week4 Preliminary Design
+* Week10 Project Showcase
 
 ## Tools
 
