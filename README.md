@@ -12,3 +12,11 @@ The Chinese Investment in Australia (CHIIA) Database is a public database of Mai
 * Zhoubao Mai: u6118739@anu.edu.au
 * Zhe Zhang: u6128882@anu.edu.au
 * Longfei Zhao: u5976992@anu.edu.au
+
+## Stakeholders
+
+## Documentation
+We use [GoogleDoc](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuLNpcM0iiCxnppF?usp=sharing) for project documentation.
+
+## Tools
+
