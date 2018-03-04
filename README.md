@@ -31,4 +31,4 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 
 * [Slack](https://chiianlp.slack.com/messages/C9H8AV2AX/) & Wechat: team communication
 * [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuLNpcM0iiCxnppF?usp=sharing): project documentation
-
+* [Trello](https://trello.com/chiianlp): project notes
