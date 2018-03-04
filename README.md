@@ -5,7 +5,8 @@
 3. [Stakeholders](#stakeholders)
 4. [Documentation](#documentation)
 5. [Meeting](#meeting)
-6. [Tools](#tools)
+6. [Milestones](#milestones)
+7. [Tools](#tools)
 
 ## Introduction
 ### About CHIIA
@@ -36,6 +37,8 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 ## Meeting
 * Meeting with client: Every Wednesday 15:00 - 17:00.
 * Team meeting: Every Wednesday 17:00 - 18:00 & Every Sunday 17:00 - 18:00.
+
+## Milestones
 
 ## Tools
 
