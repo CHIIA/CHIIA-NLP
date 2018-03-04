@@ -1,10 +1,10 @@
 # CHIIA-NLP
 ## Table of contents
-1.[Introduction](#introduction)
-2.[Group Member](#Group-Member)
-3.[Stakeholders](#Stakeholders)
-4.[Documentation](#Documentation)
-5.[Tools](#Tools)
+1. [Introduction](#introduction)
+2. [Group Member](#Group-Member)
+3. [Stakeholders](#Stakeholders)
+4. [Documentation](#Documentation)
+5. [Tools](#Tools)
 
 ## Introduction
 ### About CHIIA
