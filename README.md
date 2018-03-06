@@ -7,7 +7,7 @@
 5. [Meeting](#meeting)
 6. [Milestones](#milestones)
 7. [Tools](#tools)
-8. [Risk Assessment](#Risk Assessment)
+8. [Risk Assessment](#risk-assessment)
 
 ## Introduction
 ### About CHIIA
