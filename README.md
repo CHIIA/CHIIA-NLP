@@ -7,6 +7,7 @@
 5. [Meeting](#meeting)
 6. [Milestones](#milestones)
 7. [Tools](#tools)
+8. [Risk Assessment](#Risk Assessment)
 
 ## Introduction
 ### About CHIIA
@@ -57,3 +58,14 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 * [Slack](https://chiianlp.slack.com/messages/C9H8AV2AX/) & Wechat: team communication
 * [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuLNpcM0iiCxnppF?usp=sharing): project documentation
 * [Trello](https://trello.com/chiianlp): project notes
+
+## Risk Assessment
+
+| Risks     | Potential Costs    | Mitigation  |
+| :-------------- |:----------------:| :----------------------------------------:|
+| Team        | Extra uncertainty project outcomes  | Enhance team cooperation and communication, and try to avoid team member turnover.  |
+| Organizational Environment       | Impact project performance  | Stabilize the organization environment, and get informed of changing organizational support in advance.   |
+| Requirements        | Time and resources for useless system | Continue to communicate with clients, and get correct, clear, adequate and usable requirements.      |
+| Planning and Control    | unrealistic schedules/budget, excessive schedule pressure  |  Make accurate duration estimates, and analysis what resources to commit to the corresponding development effort.    |
+| User        | Project failure   | Investigate the specific user's preferences, make the appropriate UI, and keep communication with them.     |
+| Project Complexity   | Impact project performance  | Determine whether new technology is used, automaticity, and communication with external entities.    |
