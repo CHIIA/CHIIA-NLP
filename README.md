@@ -3,11 +3,13 @@
 1. [Introduction](#introduction)
 2. [Group Member](#group-member)
 3. [Stakeholders](#stakeholders)
-4. [Documentation](#documentation)
-5. [Meeting](#meeting)
-6. [Milestones](#milestones)
-7. [Tools](#tools)
-8. [Risk Assessment](#risk-assessment)
+4. [Stakeholders Exceptions](#stakeholders-expectations)
+5. [Documentation](#documentation)
+6. [Meeting](#meeting)
+7. [Milestones](#milestones)
+8. [Tools](#tools)
+9. [Risk Assessment](#risk-assessment)
+10. [Disclaimer & Intellectual Property Statements](#disclaimer-&-intellectual-property-statement)
 
 ## Introduction
 ### About CHIIA
@@ -32,6 +34,14 @@ CHIIA-NLP project is to identify the relevant data for CHIIA database by using n
 * CHIIA Researchers
 * CHIIA-DB Team
 
+## Stakeholders Expectations
+| Name    | Involvement | Expectations |
+| --------| :------------:| :------------:|
+| Susan Travis| Project sponsor; primary project contact; responsible for CHIIA's China investment research| Expects clear communication, achievement of project and accurate data processing result|
+| CHIIA Researchers | User; responsible for manually check and label partial results after program processing | Expect to have simple but clear UI, and easy approaches to work even for non-tech workers |
+| CHIIA-DB Team | Responsible for workflow after preliminary data processing | Clear interface and datasets,flexible and  expandable system for further development |
+| CHIIA-NLP Team | Developer; responsible for the development of NLP project | Good communication with other stakeholder, detailed documentation, accurate and efficient project development by using mature project management skills |
+
 ## Documentation
 We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuLNpcM0iiCxnppF?usp=sharing) for project documentation.
 
@@ -39,7 +49,7 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 * Meeting with client: Every Wednesday 15:00 - 17:00.
 * Team meeting: Every Wednesday 17:00 - 18:00 & Every Sunday 17:00 - 18:00.
 
-## Milestones(Semester 1)
+## Milestones
 * ![Overview](https://github.com/CHIIA/CHIIA-NLP/blob/master/Docs/image/milestone.png)
 
 | Date      | Milestone         | Week  |
@@ -69,3 +79,10 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 | Planning and Control    | unrealistic schedules/budget, excessive schedule pressure  |  Make accurate duration estimates, and analysis what resources to commit to the corresponding development effort.    |
 | User        | Project failure   | Investigate the specific user's preferences, make the appropriate UI, and keep communication with them.     |
 | Project Complexity   | Impact project performance  | Determine whether new technology is used, automaticity, and communication with external entities.    |
+
+
+## Disclaimer & Intellectual Property Statement
+The following information forms part of the terms and conditions of using CHIIA-NLP program and by using CHIIA-NLP program you are agreeing to these terms and conditions.
+###
+Materials on this program is owned by, or licensed to, Dow Jones Factive. Material owned by Dow Jones Factive is subject to Copyright and our authorisation is required prior to use of the material. 
+CHIIA-NLP's development and use is only for learning and research. No one should use these materials for commercial purposes.
