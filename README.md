@@ -56,18 +56,23 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 | :------------- |:-------------:| :-----:|
 | 2018/2/24      | Bootcamp | Semester1 Week1 |
 | 2018/3/2      | Team Building     |   Semester1 Week2 |
-| 2018/3/9 | Initial Requirement Analysis      |   Semester1 Week3 |
-| 2018/3/16      | Preliminary Design      |   Semester1 Week4 |
-| 2018/4/6 | Web Crawler Finish      |   Semester1 Week7 |
-| 2018/4/20 | Server Development Finish      |    Semester1 Week9 |
-| 2018/4/23 | Unit Test Finish      |    Semester1 Week10 |
-| 2018/4/27 | Project Showcase      |   Semester1 Week10 |
+| 2018/3/3 | Initial Requirement Analysis      |   Semester1 Week2 |
+| 2018/3/6      | Preliminary Design      |   Semester1 Week3 |
+| 2018/3/8 | Design Approval      |   Semester1 Week3 |
+| 2018/3/14 | Preliminary Front-end prototype      |    Semester1 Week4 |
+| 2018/3/28 | First Deliverable      |    Semester1 Week6 |
+| 2018/4/18 | Second Deliverable     |   Semester1 Week7 |
+| 2018/4/30 | Final prototype     |   Semester1 Week10 |
+| 2018/5/3 | Showcase     |   Semester1 Week10 |
 
 ## Tools
 
 * [Slack](https://chiianlp.slack.com/messages/C9H8AV2AX/) & Wechat: team communication
 * [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuLNpcM0iiCxnppF?usp=sharing): project documentation
 * [Trello](https://trello.com/chiianlp): project notes
+
+### Development tools
+Pycharm, Hbuilder, Atom, phpstorm
 
 ## Risk Assessment
 
