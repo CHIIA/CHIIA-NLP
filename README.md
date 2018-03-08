@@ -9,7 +9,7 @@
 7. [Milestones](#milestones)
 8. [Tools](#tools)
 9. [Risk Assessment](#risk-assessment)
-10. [Disclaimer & Intellectual Property Statements](#disclaimer-&-intellectual-property-statement)
+10. [Disclaimer & Intellectual Property Statements](#disclaimer-&-intellectual-property-statements)
 
 ## Introduction
 ### About CHIIA
@@ -81,7 +81,7 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 | Project Complexity   | Impact project performance  | Determine whether new technology is used, automaticity, and communication with external entities.    |
 
 
-## Disclaimer & Intellectual Property Statement
+## Disclaimer & Intellectual Property Statements
 The following information forms part of the terms and conditions of using CHIIA-NLP program and by using CHIIA-NLP program you are agreeing to these terms and conditions.
 ###
 Materials on this program is owned by, or licensed to, Dow Jones Factive. Material owned by Dow Jones Factive is subject to Copyright and our authorisation is required prior to use of the material. 
