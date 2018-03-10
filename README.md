@@ -72,7 +72,7 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 * [Trello](https://trello.com/chiianlp): project notes
 
 ### Development tools
-Pycharm, Hbuilder, Atom, phpstorm, anaconda
+
 ![Tools](https://github.com/CHIIA/CHIIA-NLP/blob/master/Docs/image/tools.png)
 
 ## Risk Assessment
