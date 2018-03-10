@@ -1,4 +1,4 @@
-# CHIIA-NLP
+﻿# CHIIA-NLP
 ## Table of contents
 1. [Introduction](#introduction)
 2. [Group Member](#group-member)
@@ -50,7 +50,7 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 * Team meeting: Every Wednesday 17:00 - 18:00 & Every Sunday 17:00 - 18:00.
 
 ## Milestones
-* ![Overview](https://github.com/CHIIA/CHIIA-NLP/blob/master/Docs/image/milestone.png)
+![Overview](https://github.com/CHIIA/CHIIA-NLP/blob/master/Docs/image/milestone.png)
 
 | Date      | Milestone         | Week  |
 | :------------- |:-------------:| :-----:|
@@ -73,6 +73,7 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 
 ### Development tools
 Pycharm, Hbuilder, Atom, phpstorm, anaconda
+![Tools](https://github.com/CHIIA/CHIIA-NLP/blob/master/Docs/image/tools.png)
 
 ## Risk Assessment
 
