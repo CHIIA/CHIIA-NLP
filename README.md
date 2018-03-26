@@ -84,7 +84,7 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 | Requirements        | Time and resources for useless system | Continue to communicate with clients, and get correct, clear, adequate and usable requirements.      |
 | Planning and Control    | unrealistic schedules/budget, excessive schedule pressure  |  Make accurate duration estimates, and analyze what resources to commit to the corresponding development effort.    |
 | User        | Project failure   | Investigate the specific user's preferences, make the appropriate UI, and keep communication with them.     |
-| Project Complexity   | Impact project performance  | Determine whether new technology is used, automaticity, and communication with external entities.    |
+| Project Complexity   | Impact on project performance  | Determine whether new technology is used, implement automaticity, and interact with external entities.    |
 
 
 ## Disclaimer & Intellectual Property Statements
