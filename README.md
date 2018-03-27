@@ -78,9 +78,9 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 
 ## Development Docs
 
-* [Web Crawler](https://github.com/CHIIA/Crawler/blob/master/README.MD)
-* [Web Server](https://github.com/CHIIA/Web/blob/master/README.MD)
-* [Machine Learning Moddel](https://github.com/CHIIA/Model/blob/master/README.MD)
+* [Web Crawler](https://github.com/CHIIA/Crawler)
+* [Web Server](https://github.com/CHIIA/Web)
+* [Machine Learning Moddel](https://github.com/CHIIA/Model)
 
 
 ## Risk Assessment
