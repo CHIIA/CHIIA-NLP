@@ -33,14 +33,14 @@ CHIIA-NLP project is to identify the relevant data for CHIIA database by using n
 * Susan Travis, Client
 * CHIIA-NLP Team
 * CHIIA Researchers
-* CHIIA-DB Team
+* CHIIA-WS Team
 
 ## Stakeholders Expectations
 | Name    | Involvement | Expectations |
 | --------| :------------:| :------------:|
 | Susan Travis| Project sponsor; primary project contact; responsible for CHIIA's China investment research| Expects clear communication, achievement of project and accurate data processing result|
 | CHIIA Researchers | User; responsible for manually check and label partial results after program processing | Expect to have simple but clear UI, and easy approaches to work even for non-tech workers |
-| CHIIA-DB Team | Responsible for workflow after preliminary data processing | Clear interface and datasets,flexible and  expandable system for further development |
+| CHIIA-WS Team | Responsible for workflow after preliminary data processing | Clear interface and datasets,flexible and  expandable system for further development |
 | CHIIA-NLP Team | Developer; responsible for the development of NLP project | Good communication with other stakeholder, detailed documentation, accurate and efficient project development by using mature project management skills |
 
 ## Documentation
