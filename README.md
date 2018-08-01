@@ -23,6 +23,7 @@ CHIIA-NLP project is to identify the relevant data for CHIIA database by using n
 | Name       | Role          | Email  |
 | ------------- |:-------------:| :-----:|
 | Hao He      | Communicator | u6153769@anu.edu.au |
+| Yexiao Lin  | Developer    | u6257745@anu.edu.au |
 | Yang Lu      | Technical Lead      |   u6274652@anu.edu.au |
 | Teng Ma | Developer      |    u6123792@anu.edu.au |
 | Zhoubao Mai      | Tester      |   u6118739@anu.edu.au |
@@ -93,6 +94,7 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 | Planning and Control    | unrealistic schedules/budget, excessive schedule pressure  |  Make accurate duration estimates, and analyze what resources to commit to the corresponding development effort.    |
 | User        | Project failure   | Investigate the specific user's preferences, make the appropriate UI, and keep communication with them.     |
 | Project Complexity   | Impact on project performance  | Determine whether new technology is used, implement automaticity, and interact with external entities.    |
+| Accuracy of classification and retrieved articles | Cannot achieve what the client anticipate | Optimize the machine learning model as much as possible |
 
 
 ## Disclaimer & Intellectual Property Statements
