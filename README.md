@@ -94,7 +94,7 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 | Planning and Control    | unrealistic schedules/budget, excessive schedule pressure  |  Make accurate duration estimates, and analyze what resources to commit to the corresponding development effort.    |
 | User        | Project failure   | Investigate the specific user's preferences, make the appropriate UI, and keep communication with them.     |
 | Project Complexity   | Impact on project performance  | Determine whether new technology is used, implement automaticity, and interact with external entities.    |
-| Accuracy of classification and retrieved articles | Cannot achieve what the client anticipate | Optimize the machine learning model as much as possible |
+| Accuracy of classification and retrieved articles | Cannot achieve what the client anticipate (100% accuracy) | Optimize the machine learning model as much as possible |
 
 
 ## Disclaimer & Intellectual Property Statements
