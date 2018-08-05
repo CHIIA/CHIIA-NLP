@@ -29,6 +29,7 @@ CHIIA-NLP project is to identify the relevant data for CHIIA database by using n
 | Zhoubao Mai      | Tester      |   u6118739@anu.edu.au |
 | Zhe Zhang | Project Leader      |    u6128882@anu.edu.au |
 | Longfei Zhao | Project Manager      |    u5976992@anu.edu.au |
+| Yexiao Lin | Designer      |    u6257745@anu.edu.au |
 
 ## Stakeholders
 * Susan Travis, Client
@@ -48,7 +49,7 @@ CHIIA-NLP project is to identify the relevant data for CHIIA database by using n
 We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuLNpcM0iiCxnppF?usp=sharing) for project documentation.
 
 ## Meeting
-* Meeting with client: Every Wednesday 15:00 - 17:00.
+* Meeting with client: Every Wednesday 15:00 - 17:00 for Semester 1 && Friday 10：00 - 11：00 for Semester 2.
 * Team meeting: Every Wednesday 17:00 - 18:00 & Every Sunday 17:00 - 18:00.
 
 ## Milestones
@@ -56,6 +57,7 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 
 | Date      | Milestone         | Week  |
 | :------------- |:-------------:| :-----:|
+| Semester 1 : --------------------------------|
 | 2018/2/24      | Bootcamp | Semester1 Week1 |
 | 2018/3/2      | Team Building     |   Semester1 Week2 |
 | 2018/3/3 | Initial Requirement Analysis      |   Semester1 Week2 |
@@ -66,6 +68,10 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 | 2018/4/18 | Second Deliverable     |   Semester1 Week7 |
 | 2018/4/30 | Final prototype     |   Semester1 Week10 |
 | 2018/5/3 | Showcase     |   Semester1 Week10 |
+| Semester 2 : --------------------------------|
+| 2018/7/23 | Recruiting  |   Semester2 Week1 |
+| 2018/7/30 | Team Reforming and Planning |   Semester2 Week2 |
+| 2018/8/6 | New Requirement Analysis & Continuous Implementation |   Semester2 Week3 |
 
 ## Tools
 
