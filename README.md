@@ -57,7 +57,8 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 
 | Date      | Milestone         | Week  |
 | :------------- |:-------------:| :-----:|
-| Semester 1 : --------------------------------|
+| Semester 1 |
+| : --------------------------------|
 | 2018/2/24      | Bootcamp | Semester1 Week1 |
 | 2018/3/2      | Team Building     |   Semester1 Week2 |
 | 2018/3/3 | Initial Requirement Analysis      |   Semester1 Week2 |
