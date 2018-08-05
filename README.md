@@ -69,9 +69,10 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 | 2018/4/30 | Final prototype     |   Semester1 Week10 |
 | 2018/5/3 | Showcase     |   Semester1 Week10 |
 | Semester 2 |
-| 2018/7/23 | Recruiting  |   Semester2 Week1 |
+| 2018/7/25 | Recruiting  |   Semester2 Week1 |
 | 2018/7/30 | Team Reforming and Planning |   Semester2 Week2 |
-| 2018/8/6 | New Requirement Analysis & Continuous Implementation |   Semester2 Week3 |
+| 2018/8/02 | New Requirement Analysis |   Semester2 Week2 |
+| 2018/8/06 | Continuous Implementation | Semester2 Week3 |
 
 ## Tools
 
