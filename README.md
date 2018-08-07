@@ -93,7 +93,7 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 
 * [Web Crawler](https://github.com/CHIIA/Crawler)
 * [Web Server](https://github.com/CHIIA/Web)
-* [Machine Learning Moddel](https://github.com/CHIIA/Model)
+* [Machine Learning Model](https://github.com/CHIIA/Model)
 
 
 ## Risk Assessment
