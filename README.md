@@ -23,13 +23,12 @@ CHIIA-NLP project is to identify the relevant data for CHIIA database by using n
 | Name       | Role          | Email  |
 | ------------- |:-------------:| :-----:|
 | Hao He      | Communicator | u6153769@anu.edu.au |
-| Yexiao Lin  | Developer    | u6257745@anu.edu.au |
 | Yang Lu      | Technical Lead      |   u6274652@anu.edu.au |
 | Teng Ma | Developer      |    u6123792@anu.edu.au |
 | Zhoubao Mai      | Tester      |   u6118739@anu.edu.au |
 | Zhe Zhang | Project Leader      |    u6128882@anu.edu.au |
-| Longfei Zhao | Project Manager      |    u5976992@anu.edu.au |
-| Yexiao Lin | Designer      |    u6257745@anu.edu.au |
+| Longfei Zhao | Architect      |    u5976992@anu.edu.au |
+| Yexiao Lin | Analyst     |    u6257745@anu.edu.au |
 
 ## Stakeholders
 * Susan Travis, Client
