@@ -66,13 +66,19 @@ We use [GoogleDrive](https://drive.google.com/drive/folders/1tKW8WgmndtWxE8nfbuL
 | 2018/3/14 | Preliminary Front-end prototype      |    Semester1 Week4 |
 | 2018/3/28 | First Deliverable      |    Semester1 Week6 |
 | 2018/4/18 | Second Deliverable     |   Semester1 Week7 |
-| 2018/4/30 | Final prototype     |   Semester1 Week10 |
+| 2018/4/30 | Final Prototype     |   Semester1 Week10 |
 | 2018/5/3 | Showcase     |   Semester1 Week10 |
 | Semester 2 |
 | 2018/7/25 | Recruiting  |   Semester2 Week1 |
 | 2018/7/30 | Team Reforming and Planning |   Semester2 Week2 |
 | 2018/8/02 | New Requirement Analysis |   Semester2 Week2 |
 | 2018/8/06 | Continuous Implementation | Semester2 Week3 |
+| 2018/8/29 | Connected Old version System | Semester2 Week6 |
+| Mid-Break |
+| 2018/9/19 | New Version Design basically completed| Semester2 Week7 |
+| 2018/10/10 | New Version Crawler basically completed| Semester2 Week10 |
+| 2018/10/17 | New Version Algorithm basically completed| Semester2 Week11 |
+| 2018/10/27 | New Version modules connected| Semester2 Week12 |
 
 ## Tools
 
